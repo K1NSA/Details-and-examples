@@ -3,6 +3,7 @@ The details and examples for MSTSRDPNet
 
 Contents:
 
-  Details of temporal fusion
+[1. Details of temporal fusion]([https://github.com](https://github.com/K1NSA/Details-and-examples/blob/main/temporal%20fusion.pdf)https://github.com/K1NSA/Details-and-examples/blob/main/temporal%20fusion.pdf)
+  
 
   3 exposure conditions
