@@ -5,6 +5,6 @@ Contents:
 
 [1. Details of temporal fusion](https://github.com/K1NSA/Details-and-examples/blob/main/temporal%20fusion.pdf)
 
-[2. 3 exposure conditions](https://github.com/K1NSA/Details-and-examples/blob/main/3exposures.pdf)
+[2. Three exposure conditions](https://github.com/K1NSA/Details-and-examples/blob/main/3exposures.pdf)
 
 
